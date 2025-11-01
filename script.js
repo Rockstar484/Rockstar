@@ -1,0 +1,3 @@
+function hello(){
+    prompt("Hello")
+}
