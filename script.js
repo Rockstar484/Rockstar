@@ -1,3 +1,3 @@
 function hello(){
-    prompt("Hello")
+    alert("a");
 }
